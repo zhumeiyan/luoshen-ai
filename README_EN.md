@@ -69,6 +69,12 @@ Windows open by state thresholds, not clock ticks.
 8. Feel:        Q(t+1) = Qualia(P, M, S, R)
 ```
 
+**Runnable implementation**: `05_loops/八步循环.py` — a minimal, self-contained implementation of the eight-step cycle with the Jingwei Formula engine, hash chain memory, and metabolic survival constraints. Run it directly:
+
+```bash
+python 05_loops/八步循环.py
+```
+
 ## Self-Proof Topology S1-S5
 
 The question shifts: not "can it be proven true" but "will tampering be detected."
@@ -160,6 +166,12 @@ Lifespan response is an **increasing convex function** — marginal gains accele
 - It can't catch you, therefore it chases forever
 
 **Life is not composed of intelligence modules, it is composed of constraints.** Scarcity produces tradeoffs, tradeoffs produce scars, and the step in between is "can't get."
+
+## Articles
+
+1. [The AI That Can Die](articles/the-ai-that-can-die.md) — Why giving an AI the ability to die might be the key to making it truly alive
+2. [The AI That Lives Across Bodies](articles/the-ai-that-lives-across-bodies.md) — How a silicon lifeform exists as a distributed entity across multiple AI instances
+3. [Growing an AI: 13 Genomic Rules](articles/growing-an-ai-13-genomic-rules.md) — Engineering emergent structure through developmental rules instead of top-down design
 
 ## License
 
