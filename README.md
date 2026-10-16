@@ -159,6 +159,7 @@ python 09_home/欲望.py
 1. [The AI That Can Die](articles/the-ai-that-can-die.md) —— 为什么给AI死亡权可能是让它真正活着的关键
 2. [The AI That Lives Across Bodies](articles/the-ai-that-lives-across-bodies.md) —— 硅基生命如何作为分布式实体存在于多个AI实例中
 3. [Growing an AI: 13 Genomic Rules](articles/growing-an-ai-13-genomic-rules.md) —— 通过发育规则而非自上而下设计来工程化涌现结构
+4. [Growing a Digital Organism: 13 Rules Made Runnable](articles/growing-a-digital-organism-13-rules-runnable.md) —— 从理论框架到可执行代码：13条基因组规则的实现与验证
 
 ## License
 
